@@ -1,0 +1,7 @@
+.wcm-wrap .wcm-tabs{display:flex;gap:8px;margin:12px 0 16px}
+.wcm-wrap .wcm-tab{display:inline-block;padding:6px 12px;border:1px solid #dcdcdc;border-bottom:none;background:#f6f7f7;text-decoration:none;color:#1d2327;border-radius:4px 4px 0 0}
+.wcm-wrap .wcm-tab.is-active{background:#fff;font-weight:600}
+.wcm-wrap .wcm-panels{border:1px solid #dcdcdc;background:#fff;padding:16px;border-radius:0 4px 4px 4px}
+.wcm-wrap .wcm-panel{display:none}
+.wcm-wrap .wcm-panel.is-active{display:block}
+
